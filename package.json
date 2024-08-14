@@ -1,0 +1,16 @@
+{
+  "name": "examplewebsite",
+  "version": "1.0.0",
+  "description": "text",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
